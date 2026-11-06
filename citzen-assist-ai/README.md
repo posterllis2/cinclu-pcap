@@ -154,7 +154,7 @@ Pergunta: **"Como denunciar homofobia?"**
 | "denunciar" aparece no título da orientação 1 | +1 |
 | **Total** | **7 → confiança ALTA** |
 
-### 4. Ajustes que fizemos em relação ao enunciado
+### 4. Ajustes
 - **Palavras ignoradas no título:** palavras comuns com 4 ou mais letras, como *como*, *para*, *quero*, *posso* (lista `IGNORAR_NO_TITULO`), **não** valem o +1 do título. Sem isso, "Como conseguir PrEP?" ganhava ponto à toa em orientações sem relação, por causa do "Como" no título.
 - **Sem pontos repetidos:** se uma palavra aparece duas vezes na pergunta, ela conta uma vez só.
 - **Pontuação extra removida:** além da pontuação sugerida, a normalização também remove aspas, barra e o sinal `+` (para "LGBTQIA+").
