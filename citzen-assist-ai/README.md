@@ -203,19 +203,21 @@ Nesta versão **não há integrações** com outras disciplinas da GS.
 
 | Item | Resultado |
 |---|---|
-| Pessoas que testaram | _preencher_ |
-| Total de atendimentos | _preencher_ |
-| Resposta encontrada (%) | _preencher_ |
-| Taxa de acerto: ajudou (%) | _preencher_ |
-| Tempo médio para encontrar | _preencher_ |
-| Tentativas por atendimento | _preencher_ |
-| Facilidade de uso (1 a 5) | _preencher_ |
+| Pessoas que testaram | 3 |
+| Total de atendimentos | 14 |
+| Resposta encontrada (%) | 85,7% |
+| Taxa de acerto: ajudou (%) | 78,6% |
+| Tempo médio para encontrar | 29,0s |
+| Tentativas por atendimento | 1,1 |
+| Facilidade de uso (1 a 5) | 4,3 |
 
 **Dúvidas sem solução:**
-- _preencher com a lista que o programa mostra na opção 3_
+- "Meu chefe se recusa a me chamar pelo nome social"
+- "Quanto custa a cirurgia de mudança de sexo?"
+- "Quero adotar uma criança"
 
 **Melhoria feita a partir do teste:**
-- _preencher (exemplo: nova palavra-chave adicionada à orientação X porque a pergunta "..." não era encontrada)_
+- Inclusão das palavras-chave "cirurgia" e "mudanca de sexo" na Orientação "Saúde de pessoas trans no SUS (Processo Transexualizador)" (ID 10)
 
 ---
 
