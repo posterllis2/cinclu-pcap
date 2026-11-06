@@ -199,8 +199,6 @@ Nesta versão **não há integrações** com outras disciplinas da GS.
 
 ## 🧪 Resultado do teste com usuários
 
-> 📝 **A PREENCHER depois dos testes.** Mínimo exigido: 3 pessoas de fora da equipe e 10 atendimentos. Não registrar nomes nem dados dessas pessoas.
-
 | Item | Resultado |
 |---|---|
 | Pessoas que testaram | 3 |
