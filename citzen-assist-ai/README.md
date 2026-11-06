@@ -2,8 +2,6 @@
 
 > Assistente de terminal, escrito em Python, que orienta pessoas LGBTQIA+ sobre **saúde, direitos, documentos e denúncia**, sempre com **fonte oficial**, **data de verificação** e **sem coletar dados pessoais**.
 
-Projeto da **Global Solution 2026.2 – Pensamento Computacional e Automação com Python (FIAP)** · desafio **CitizenTech** · tema *Citizen Assist AI*.
-
 ⚠️ **Aviso:** este assistente **NÃO é um canal oficial**. Ele reúne orientações de fontes oficiais, mas não substitui atendimento jurídico, médico ou psicológico.
 
 ---
