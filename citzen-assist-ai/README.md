@@ -1,4 +1,4 @@
-# 🏳️‍🌈 Cinclu (Cidade Inclusiva)
+# 🏳️‍🌈 Cinclu - Cidade Inclusiva
 
 > Assistente de terminal, escrito em Python, que orienta pessoas LGBTQIA+ sobre **saúde, direitos, documentos e denúncia**, sempre com **fonte oficial**, **data de verificação** e **sem coletar dados pessoais**.
 
