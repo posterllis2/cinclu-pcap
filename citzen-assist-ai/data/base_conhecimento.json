@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "categoria": "Denúncia e Proteção",
+    "titulo": "Denunciar violência ou discriminação contra pessoas LGBTQIA+ (Disque 100)",
+    "palavras_chave": ["disque 100", "disque direitos humanos", "denunciar", "denuncia", "denuncia anonima", "violencia", "agressao", "ameaca", "discriminacao", "protocolo", "lgbtfobia", "homofobia", "transfobia"],
+    "resposta": "O Disque 100 é gratuito e funciona 24 horas por dia, todos os dias, inclusive fins de semana e feriados. Ele recebe denúncias de violações de direitos humanos, inclusive contra pessoas LGBTQIA+, e encaminha aos órgãos responsáveis. Também dá para denunciar pelo WhatsApp (61) 99611-0100. A denúncia pode ser anônima e gera um número de protocolo para você acompanhar.",
+    "documentos": ["Nenhum documento é necessário para denunciar", "Se possível, anote data, local e o que aconteceu"],
+    "onde": "Ligue 100 (de qualquer telefone) ou envie mensagem para o WhatsApp (61) 99611-0100",
+    "fonte": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/disque-100",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 2,
+    "categoria": "Denúncia e Proteção",
+    "titulo": "LGBTfobia é crime? Como registrar uma ocorrência",
+    "palavras_chave": ["crime", "lei", "stf", "boletim de ocorrencia", "bo", "delegacia", "policia", "registrar ocorrencia", "racismo", "preconceito", "injuria", "homofobia", "transfobia", "lgbtfobia"],
+    "resposta": "Sim. Em 2019, o Supremo Tribunal Federal (STF) decidiu que atos de homofobia e transfobia se enquadram nos crimes da Lei do Racismo (Lei 7.716/1989), até que o Congresso aprove uma lei específica. Se você sofreu ou viu discriminação, ofensa ou violência por causa de orientação sexual ou identidade de gênero, pode registrar a ocorrência em uma delegacia de polícia.",
+    "documentos": ["Não há lista única de documentos", "Leve o que tiver sobre o caso (mensagens, fotos, nomes de testemunhas)"],
+    "onde": "Delegacia de polícia mais próxima (consulte o site da Polícia Civil do seu estado)",
+    "fonte": "https://portal.stf.jus.br/noticias/vernoticiadetalhe.asp?idconteudo=414010",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos e Direitos",
+    "titulo": "Mudar nome e gênero nos documentos (retificação em cartório)",
+    "palavras_chave": ["mudar nome", "mudar meu nome", "mudar o nome", "trocar nome", "trocar meu nome", "trocar o nome", "alterar nome", "alterar meu nome", "alterar o nome", "mudanca de nome", "retificar", "retificacao", "prenome", "nome e genero", "mudar genero", "trocar genero", "alterar genero", "registro civil"],
+    "resposta": "Pessoas trans maiores de 18 anos podem pedir a mudança de prenome e de gênero direto no Cartório de Registro Civil, sem ação judicial e sem precisar de cirurgia ou laudo. Dá para mudar só o nome, só o gênero ou os dois. As regras estão no Código Nacional de Normas do CNJ (Provimento 149/2023, que incorporou o Provimento 73/2018). Para constar 'não binário', em geral ainda é preciso um processo judicial.",
+    "documentos": ["Documentos pessoais", "Certidões negativas criminais", "Certidões cíveis estaduais", "A lista completa está na página do CNJ indicada na fonte"],
+    "onde": "Cartório de Registro Civil (pode ser o da cidade onde você mora)",
+    "fonte": "https://www.cnj.jus.br/cnj-servico-como-fazer-a-troca-de-nome-e-genero-em-cartorios/",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos e Direitos",
+    "titulo": "Usar o nome social em órgãos públicos federais",
+    "palavras_chave": ["nome social", "usar nome social", "usar o nome social", "decreto 8727", "travesti", "transexual", "pejorativo", "ser chamada pelo nome", "ser chamado pelo nome", "orgao publico"],
+    "resposta": "Pessoas travestis e transexuais têm direito de ser tratadas pelo nome social nos órgãos e entidades da administração pública federal (Decreto 8.727/2016). Formulários e cadastros devem ter o campo 'nome social', e é proibido usar expressões pejorativas ou discriminatórias. O nome social não muda o nome nos documentos: para isso é preciso fazer a retificação em cartório.",
+    "documentos": ["Pedido da própria pessoa para usar o nome social"],
+    "onde": "No órgão público federal em que você precisa ser atendida(o)",
+    "fonte": "https://www2.camara.leg.br/legin/fed/decret/2016/decreto-8727-28-abril-2016-782951-norma-pe.html",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos e Direitos",
+    "titulo": "Usar o nome social na Justiça",
+    "palavras_chave": ["nome social justica", "nome social tribunal", "nome social forum", "judiciario", "tribunal", "forum", "justica", "processo judicial", "audiencia"],
+    "resposta": "O CNJ garante o uso do nome social por pessoas trans, travestis e transexuais que usam os serviços do Poder Judiciário, e também por magistrados (Resolução CNJ 270/2018, com texto atualizado em 2025). Consulte o tribunal ou a unidade judiciária para saber como pedir o registro do nome social.",
+    "documentos": ["Consulte o tribunal sobre como pedir o registro do nome social"],
+    "onde": "Tribunais e serviços do Poder Judiciário",
+    "fonte": "https://atos.cnj.jus.br/files/compilado14054320250612684adeb7131f0.pdf",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos e Direitos",
+    "titulo": "Casamento e união estável entre pessoas do mesmo sexo",
+    "palavras_chave": ["casamento", "casar", "casar com", "uniao estavel", "casamento gay", "casamento homoafetivo", "casamento igualitario", "uniao homoafetiva", "converter uniao estavel", "cartorio casamento"],
+    "resposta": "Os cartórios não podem recusar a habilitação, a celebração de casamento civil ou a conversão de união estável em casamento entre pessoas do mesmo sexo (Resolução CNJ 175/2013). Se houver recusa, o oficial do cartório pode responder a um processo administrativo.",
+    "documentos": ["A lista de documentos varia; confirme no cartório de registro civil"],
+    "onde": "Cartório de Registro Civil",
+    "fonte": "https://atos.cnj.jus.br/atos/detalhar/1754",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 7,
+    "categoria": "Saúde",
+    "titulo": "PrEP: prevenção ao HIV antes da exposição",
+    "palavras_chave": ["prep", "profilaxia pre exposicao", "pre exposicao", "prevenir hiv", "prevencao hiv", "prevencao ao hiv", "evitar hiv", "proteger do hiv", "remedio hiv", "comprimido hiv"],
+    "resposta": "A PrEP (profilaxia pré-exposição) é um medicamento oral que ajuda a prevenir o HIV e é oferecido gratuitamente pelo SUS desde 2018. O Ministério da Saúde recomenda a PrEP para pessoas com maior risco de exposição ao HIV. Procure uma unidade de saúde para uma avaliação.",
+    "documentos": ["Não há lista única de documentos; confirme na unidade de saúde"],
+    "onde": "Unidades de saúde do SUS (inclusive atenção primária); em dúvida, ligue 136 (Disque Saúde)",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/pcdt/p/profilaxia-pre-exposicao-prep-oral-a-infeccao-pelo-hiv",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 8,
+    "categoria": "Saúde",
+    "titulo": "PEP: atendimento de urgência após risco de HIV",
+    "palavras_chave": ["pep", "profilaxia pos exposicao", "pos exposicao", "exposto ao hiv", "exposta ao hiv", "exposicao ao hiv", "risco de hiv", "risco hiv", "camisinha estourou", "camisinha rompeu", "sem camisinha", "72 horas", "urgencia hiv"],
+    "resposta": "A PEP (profilaxia pós-exposição) é uma medida de urgência com medicamentos para reduzir o risco de pegar o HIV depois de uma situação de risco. Ela deve ser usada em até 72 horas e está disponível no SUS. Procure uma unidade de saúde o quanto antes.",
+    "documentos": ["Não há lista única de documentos; confirme na unidade de saúde"],
+    "onde": "Unidades de saúde do SUS; em dúvida, ligue 136 (Disque Saúde)",
+    "fonte": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2022/hiv-aids/acesse-as-pecas/flyer.pdf",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 9,
+    "categoria": "Saúde",
+    "titulo": "Fazer teste de HIV e autoteste",
+    "palavras_chave": ["teste hiv", "teste de hiv", "autoteste", "autoteste hiv", "exame hiv", "exame de hiv", "testar hiv", "testagem", "fazer teste"],
+    "resposta": "Existe o teste feito em uma unidade de saúde e também o autoteste de HIV, que você pode fazer onde e quando quiser. Se o resultado for reagente (positivo), procure um serviço de saúde.",
+    "documentos": ["Não há lista única de documentos; confirme na unidade de saúde"],
+    "onde": "Unidade de saúde do SUS",
+    "fonte": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2022/hiv-aids/acesse-as-pecas/flyer.pdf",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 10,
+    "categoria": "Saúde",
+    "titulo": "Saúde de pessoas trans no SUS (Processo Transexualizador)",
+    "palavras_chave": ["processo transexualizador", "transexualizador", "hormonio", "hormonizacao", "hormonioterapia", "transicao de genero", "ambulatorio trans", "saude trans", "cirurgia trans", "afirmacao de genero", "cirurgia de transicao"],
+    "resposta": "O SUS tem o Processo Transexualizador, com atenção especializada para pessoas trans e travestis: acompanhamento clínico, hormonioterapia e, em unidades habilitadas, cirurgias com acompanhamento antes e depois (Portaria GM/MS 2.803/2013). Em alguns serviços o acesso começa por encaminhamento da UBS. O acesso varia conforme a região.",
+    "documentos": ["Não há lista única de documentos; confirme na UBS ou no serviço habilitado"],
+    "onde": "UBS da sua região ou serviço habilitado no Processo Transexualizador",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2013/prt2803_19_11_2013.html",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 11,
+    "categoria": "Apoio Emocional",
+    "titulo": "Apoio emocional gratuito 24 horas (CVV 188)",
+    "palavras_chave": ["cvv", "188", "apoio emocional", "saude mental", "ansiedade", "depressao", "triste", "tristeza", "sozinho", "sozinha", "preciso conversar", "conversar com alguem", "psicologo", "suicidio"],
+    "resposta": "O CVV oferece apoio emocional gratuito e sigiloso, 24 horas por dia, todos os dias, pelo telefone 188 (sem custo de ligação). Também atende por chat e e-mail no site cvv.org.br. O CVV não substitui atendimento de saúde. Se houver risco imediato à sua vida, procure um serviço de urgência.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Telefone 188 ou site cvv.org.br (chat e e-mail)",
+    "fonte": "https://cvv.org.br",
+    "verificado_em": "2026-11-06"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "data": "2026-11-06 17:52:57",
+    "origem": "pergunta",
+    "pergunta": "quero saber sobre retificação",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.4
+  },
+  {
+    "data": "2026-11-06 17:53:23",
+    "origem": "categoria",
+    "pergunta": "Categoria: Denúncia e Proteção",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 5.1
+  },
+  {
+    "data": "2026-11-06 17:53:55",
+    "origem": "pergunta",
+    "pergunta": "posso doar sangue?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 14.5
+  },
+  {
+    "data": "2026-11-06 17:54:43",
+    "origem": "pergunta",
+    "pergunta": "denuncia",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 14.9
+  },
+  {
+    "data": "2026-11-06 17:55:55",
+    "origem": "pergunta",
+    "pergunta": "[mensagem sensível: texto não registrado]",
+    "id_orientacao": null,
+    "encontrou": true,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 5.4
+  },
+  {
+    "data": "2026-11-06 17:56:31",
+    "origem": "pergunta",
+    "pergunta": "direitos",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 35.7
+  },
+  {
+    "data": "2026-11-06 17:57:04",
+    "origem": "categoria",
+    "pergunta": "Categoria: Documentos e Direitos",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 6.8
+  }
+]
