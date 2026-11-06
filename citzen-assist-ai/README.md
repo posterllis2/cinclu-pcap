@@ -123,7 +123,7 @@ São **11 orientações**, **4 categorias** e de 9 a 18 palavras-chave por orien
 | 10 | Saúde | Saúde de pessoas trans no SUS (Processo Transexualizador) |
 | 11 | Apoio Emocional | Apoio emocional gratuito 24 horas (CVV 188) |
 
-📌 **Regra de ouro:** o assistente só responde com o que está na base. Quando a equipe não encontrou uma lista oficial de documentos, o campo diz isso (por exemplo, "confirme na unidade de saúde") em vez de inventar.
+📌 **Regra de ouro:** o assistente só responde com o que está na base. Quando a equipe não foi encontrada uma lista oficial de documentos, o campo diz isso (por exemplo, "confirme na unidade de saúde").
 
 ---
 
