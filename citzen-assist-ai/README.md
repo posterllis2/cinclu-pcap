@@ -73,12 +73,9 @@ citizen-assist-ai/
 ## ▶️ Como executar
 
 Requisitos: **Python 3.8 ou superior**. Não há bibliotecas externas.
+Baixe **todos** os arquivos e a pasta. Depois execute **main.py**.
 
-```bash
-git clone <link-do-repositorio>
-cd citizen-assist-ai
-python main.py
-```
+**Atenção:** para melhor experiência no Cinclu não altere nomes de arquivos ou pastas
 
 Menu principal:
 
@@ -198,7 +195,7 @@ Cada atendimento é salvo em `data/historico.json` com: `data`, `origem` (pergun
 
 ## 🔗 Integrações com outras disciplinas
 
-Nesta versão **não há integrações** com outras disciplinas da GS. A busca por pontuação é 100% feita em Python puro.
+Nesta versão **não há integrações** com outras disciplinas da GS.
 
 ---
 
