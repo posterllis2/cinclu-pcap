@@ -253,7 +253,7 @@ Todas as orientações foram conferidas nas fontes abaixo. Data de verificação
 
 ## 🎥 Vídeo técnico
 
-🔗 **Link (YouTube, não listado):** _preencher_
+🔗 **Link do Vídeo:** _https://youtu.be/N51jbnt1sFM_
 
 ---
 
