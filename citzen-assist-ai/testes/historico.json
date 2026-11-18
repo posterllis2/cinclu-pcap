@@ -1,0 +1,142 @@
+[
+  {
+    "data": "2026-11-09 14:00:52",
+    "origem": "pergunta",
+    "pergunta": "Como faço para denunciar uma agressão homofóbica?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.0
+  },
+  {
+    "data": "2026-11-09 14:01:22",
+    "origem": "pergunta",
+    "pergunta": "Quero mudar meu nome no RG",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.4
+  },
+  {
+    "data": "2026-11-09 14:01:46",
+    "origem": "pergunta",
+    "pergunta": "Como conseguir PrEP?",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 17.1
+  },
+  {
+    "data": "2026-11-09 14:02:14",
+    "origem": "pergunta",
+    "pergunta": "Meu namorado e eu podemos casar?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 21.7
+  },
+  {
+    "data": "2026-11-09 14:33:49",
+    "origem": "pergunta",
+    "pergunta": "Camisinha estourou ontem, o que eu faço?",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 32.3
+  },
+  {
+    "data": "2026-11-09 14:34:27",
+    "origem": "pergunta",
+    "pergunta": "Onde faço hormonização?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.4
+  },
+  {
+    "data": "2026-11-09 14:37:27",
+    "origem": "pergunta",
+    "pergunta": "Meu chefe se recusa a me chamar pelo nome social",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 122.2
+  },
+  {
+    "data": "2026-11-09 14:37:51",
+    "origem": "pergunta",
+    "pergunta": "Quero fazer teste de HIV",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.9
+  },
+  {
+    "data": "2026-11-09 15:10:11",
+    "origem": "pergunta",
+    "pergunta": "Sofri discriminação no trabalho",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 40.4
+  },
+  {
+    "data": "2026-11-09 15:10:30",
+    "origem": "pergunta",
+    "pergunta": "Como funciona o Disque 100?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.0
+  },
+  {
+    "data": "2026-11-09 15:11:32",
+    "origem": "pergunta",
+    "pergunta": "Estou me sentindo muito sozinho",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 46.6
+  },
+  {
+    "data": "2026-11-09 15:12:16",
+    "origem": "pergunta",
+    "pergunta": "Quanto custa a cirurgia de mudança de sexo?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 44.3
+  },
+  {
+    "data": "2026-11-09 15:13:30",
+    "origem": "pergunta",
+    "pergunta": "Quero adotar uma criança",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 59.3
+  },
+  {
+    "data": "2026-11-09 15:15:04",
+    "origem": "categoria",
+    "pergunta": "Categoria: Saúde",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 22.3
+  }
+]

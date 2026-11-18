@@ -1,0 +1,15 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-09 14:00:52,pergunta,Como faço para denunciar uma agressão homofóbica?,1,True,True,1,10.0
+2026-11-09 14:01:22,pergunta,Quero mudar meu nome no RG,3,True,True,1,7.4
+2026-11-09 14:01:46,pergunta,Como conseguir PrEP?,7,True,True,1,17.1
+2026-11-09 14:02:14,pergunta,Meu namorado e eu podemos casar?,6,True,True,1,21.7
+2026-11-09 14:33:49,pergunta,"Camisinha estourou ontem, o que eu faço?",8,True,True,1,32.3
+2026-11-09 14:34:27,pergunta,Onde faço hormonização?,10,True,True,1,12.4
+2026-11-09 14:37:27,pergunta,Meu chefe se recusa a me chamar pelo nome social,4,True,False,2,122.2
+2026-11-09 14:37:51,pergunta,Quero fazer teste de HIV,9,True,True,1,8.9
+2026-11-09 15:10:11,pergunta,Sofri discriminação no trabalho,1,True,True,2,40.4
+2026-11-09 15:10:30,pergunta,Como funciona o Disque 100?,1,True,True,1,7.0
+2026-11-09 15:11:32,pergunta,Estou me sentindo muito sozinho,11,True,True,1,46.6
+2026-11-09 15:12:16,pergunta,Quanto custa a cirurgia de mudança de sexo?,,False,False,1,44.3
+2026-11-09 15:13:30,pergunta,Quero adotar uma criança,,False,False,1,59.3
+2026-11-09 15:15:04,categoria,Categoria: Saúde,8,True,True,1,22.3
